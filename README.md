@@ -8,7 +8,7 @@
 2. 执行`node fetchSaveRepo.js`来生成自己的项目列表到`repos.txt`
 3. 生成一个拥有删除项目权限的[Authorization Token](https://github.com/settings/tokens/new)
 4. 修改`deleteRepos.sh`文件中对应`*******************`为生新成的token
-5. 执行`deleteRepos.sh`
+5. 执行`./deleteRepos.sh`
 
 >注：
 
