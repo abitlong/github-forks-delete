@@ -1,7 +1,7 @@
 # github-forks-delete
 :fork_and_knife:该项目使用Node和Shell来批量删除github的项目
 
-    :computer:刚开始玩Github随手fork了很多项目，毕竟那时年轻，生怕作者删库啊，前几日整理发现已经fork了几百项目，想着删除一批，然而手动删了十来个就抓狂了，Github删除项目的步骤也太多了，抱着试试看的心态找了几个项目,测试下来只有[Peripona/bulk-clean-repos](https://github.com/Peripona/bulk-clean-repos)成功了，再次感谢下作者！
+:computer:刚开始玩Github随手fork了很多项目，毕竟那时年轻，生怕作者删库啊，前几日整理发现已经fork了几百项目，想着删除一批，然而手动删了十来个就抓狂了，Github删除项目的步骤也太多了，抱着试试看的心态找了几个项目,测试下来只有[Peripona/bulk-clean-repos](https://github.com/Peripona/bulk-clean-repos)成功了，再次感谢下作者！
 
 ### 步骤：
 1. 打开`fetchSaveRepo.js`，修改`repoUrl`为自己的url
